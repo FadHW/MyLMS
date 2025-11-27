@@ -1,4 +1,5 @@
-# MyLMS - Library Management System
+
+# <span style="color:blue"> MyLMS - Library Management System</span>
 A simple console-based Library Management System built using C#.  
 The project manages books, readers, members, and employees with CRUD operations.
 ## Features
